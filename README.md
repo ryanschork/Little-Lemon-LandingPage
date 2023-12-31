@@ -3,4 +3,4 @@ A landing page for a Mediterranean Restaurant, Little Lemon. This is a project f
 
 ![image](https://github.com/ryanschork/Little-Lemon-LandingPage/assets/144560980/9678435a-b51d-4a65-a8bd-003d4d298da9)
 
-Preview Landing Page: https://github.com/ryanschork/Little-Lemon-LandingPage/settings/pages
+Preview Landing Page: https://ryanschork.github.io/Little-Lemon-LandingPage/
